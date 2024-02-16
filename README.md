@@ -1,6 +1,7 @@
 this is my attempt to learn computer music via a just intonation approach.
 
 bibliography:
+
 0. "Creating Electronic Music with ChucK" by Clint Hoagland
   - Youtube series
   - [Link](https://www.youtube.com/playlist?list=PL-9SSIBe1phI_r3JsylOZXZyAXuEKRJOS)
