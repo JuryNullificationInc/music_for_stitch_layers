@@ -18,8 +18,8 @@ Rhodey rhdFirst => dac;
 // TRIAD            | Example |
 // -----------------|---------|
 // I major          | 1,6,7   |
-// ii minor         | 2,4,6
-// iii minor b5     |
+// ii minor         | 2,4,6   |
+// iii minor b5     | 
 // IV major         |
 // v minor          |
 // vi minor         |
