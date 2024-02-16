@@ -1,7 +1,5 @@
 import math
-from typing import Any
-
-OTTAVA = 1200/math.log10(2)
+from gann_notes.utils import OTTAVA
 
 class Interval:
 
@@ -13,6 +11,12 @@ class Interval:
     num = 1
     den = 1
     fundamental = 440
+
+    def __eq__(self, other):
+        if isinstance(other, Interval):
+            return self.num == other.num and self.den == other.den
+        else:
+            return False
 
     def __repr__(self):
         if self.repr_with_cents:
@@ -39,7 +43,7 @@ class Interval:
             raise TypeError(f"unsupported operand type(s) for -: 'Interval' and '{type(other)}'")
         
 
-    def __setattr__(self, __name: str, __value: Any) -> None:
+    def __setattr__(self, __name: str, __value: any) -> None:
         if __name == 'num' or __name == 'den':
             if not isinstance(__value, int):
                 raise TypeError(f"expected int, got '{type(__value)}'")
@@ -52,7 +56,7 @@ class Interval:
                 super().__setattr__('num', new_num)
                 super().__setattr__('den', new_den)
             elif __name == 'den':
-                new_num, new_den = self.reduce(__value, self.num)
+                new_num, new_den = self.reduce(self.num, __value)
                 super().__setattr__('num', new_num)
                 super().__setattr__('den', new_den)
 
@@ -92,5 +96,8 @@ class Interval:
             return self
         else:
             return Interval(self.num, self.den * (2**n))
-
-
+        
+    def repr_only_ratio(self):
+        self.repr_with_cents = False
+        self.repr_with_fund = False
+        self.repr_with_pitch = False

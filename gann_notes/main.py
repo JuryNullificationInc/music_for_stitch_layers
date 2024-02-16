@@ -1,6 +1,9 @@
-from gann_utils import Interval
+from scale_by_repetition import OneDimensionalScaleByRepetition
+from interval import Interval
 
 a = Interval(3, 2)
-b = Interval(5, 4)
+b = Interval(3, 2)
 c = a + b
-print(c)
+
+s = OneDimensionalScaleByRepetition(Interval(3, 2), 1, 2)
+print(s)
