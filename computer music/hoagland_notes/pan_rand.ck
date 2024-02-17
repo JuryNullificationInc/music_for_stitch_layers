@@ -1,5 +1,3 @@
-<<< "Tutorial base" >>>;
-
 SinOsc osc => ADSR env1 => dac;
 0.25::second => dur beat;
 (1::ms, beat/8, 0, 1::ms) => env1.set;
