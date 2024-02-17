@@ -5,7 +5,7 @@ This is my attempt to learn computer music. It is divided into four major sectio
 - Abstract Music: the study of how abstractions open new possibilities of intentional choice when constructing music from alternative options.
 - Mousadelics: a personal study of how I am affected by the manifestations of music, and my reflections on my own musical manifestations.
 
-I am inspired to make music because I love poetry. I want to learn so I can put musical backings to my favorite poems.
+I am inspired to make music because I love poetry. I want to learn so I can put musical backings to my favorite poems. I am inspired by the rhapsodists of old; I therefore refer to this as the "Stitch Layer" approach to music.
 
 # Musicology
 

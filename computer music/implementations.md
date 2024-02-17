@@ -1,0 +1,8 @@
+- [MusiNum](https://reglos.de/musinum/) by Lars Kindermann
+    - Generative fractal music software
+- [ChucK](https://chuck.cs.princeton.edu/)
+    - Music programming language
+- [SuperCollider](https://supercollider.github.io/)
+    - Music programming language
+- [midish](https://midish.org/)
+    - Command-line MIDI sequencer & filter
