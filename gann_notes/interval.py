@@ -1,5 +1,5 @@
 import math
-from gann_notes.utils import OTTAVA
+from utils import OTTAVA
 
 class Interval:
 
