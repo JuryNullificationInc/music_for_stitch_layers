@@ -77,7 +77,7 @@ A key is a collection of notes that divies and spans the octave. It is defined a
 
 ## Scales 
 
-Scales are keys whose intervals are arranged in standard (descending) order: the root note is ordered first, then the next nearest interval, and so forth.
+Scales are keys whose intervals are arranged in standard (ascending) order: the root note is ordered first, then the next nearest interval, and so forth.
 
 ## Modes
 
