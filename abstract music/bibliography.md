@@ -81,7 +81,12 @@
 - [ComMU: Dataset for Combinatorial Music Generation](https://arxiv.org/abs/2211.09385)
 - [The Sounding Algebra: Relations Between Combinatorics and Music from Mersenne to Euler](https://link.springer.com/chapter/10.1007/978-3-662-04927-3_2)
 - [Symmetry, Combinatorics, Artificial Intelligence, Music and Spectroscopy](https://www.mdpi.com/2073-8994/13/10/1850)
+- [On Musical Space and Combinatorics: Historical and Conceptual Perspectives in Music Theory](https://archive.bridgesmathart.org/2000/bridges2000-201.pdf)
+- [Combinatorial problems in the theory of music](https://core.ac.uk/download/pdf/82043504.pdf)
+
 
 # Others
 
 - [Algorithmic Composition: The Music of Mathematics](https://blogs.hsc.edu/sciencejournal/wp-content/uploads/sites/6/2019/03/Anselmo.pdf)
+- [Math & Music](https://math.unm.edu/~james/math129_notes.pdf)
+- [Music and Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw)
