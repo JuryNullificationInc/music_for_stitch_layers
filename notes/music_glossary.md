@@ -81,7 +81,7 @@ Scales are keys whose intervals are arranged in standard (ascending) order: the 
 
 ## Modes
 
-Modes are keys with a non-standard ordering.
+Modes are keys with a non-standard ordering. Another way to conceptualize a mode is a permutation of a scale, or a left/right shifting of the tonal center of the scale. 
 
 # Chords
 
