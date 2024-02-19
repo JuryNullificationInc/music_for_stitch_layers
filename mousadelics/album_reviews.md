@@ -1,25 +1,7 @@
-# Moody Blues
+# Current Rankings
 
-## Days of Future Passed
-
-# King Gizzard and the Lizard Wizard (KGLW)
-
-## KG
-
-## LW
-
-## Fishing for Fishies
-
-## Buterfly 3000
-
-## Omnium Gatherum
-
-# Bop Alloy
-
-## Substantial and Marcus D Are Bop Alloy
-
-# ArtOfficial
-
-## Vitamins & Minerals
-
-# Nujabes
+1. The Moody Blues - Days of Future Passed
+2. King Crimson - Three of a Perfect Pair
+3. ELO - A New World Record
+4. KGLW - Butterfly 3000
+5. The Doors - The Soft Parade
