@@ -1,16 +1,31 @@
-- Rainbow - Rising (poler10)
-- Sufjan Stevens (agrathem)
-- Porcupine Tree (caseybop)
-- The Dear Hunter (caseybop)
-- Rush (caseybop)
-- The Dear Hunter - The Acts (kae)
-- The Dear Hunter - Color Spectrum (kae)
-- The Dear Hunter - Antimai (kae)
-- Rototypical (agrathem)
-- Jane Remover (agrathem)
-- Deafheaven (agrathem)
-- Sketches of Spain (whereishumhum)
-- dream theater (agrathem)
-- tool (agrathem)
-- slice the cake - odyssey to the west (poler10) 
-    - I have been reliably informed that StC is perhaps a bit deep in the genre
+- [ ] Rainbow - Rising (poler10)
+- [ ] Sufjan Stevens (agrathem)
+- [ ] Porcupine Tree (caseybop)
+- [ ] The Dear Hunter (caseybop)
+- [ ] Rush (caseybop)
+- [ ] The Dear Hunter - The Acts (kae)
+- [ ] The Dear Hunter - Color Spectrum (kae)
+- [ ] The Dear Hunter - Antimai (kae)
+- [ ] Rototypical (agrathem)
+- [ ] Jane Remover (agrathem)
+- [ ] Deafheaven (agrathem)
+- [x] Miles Davis - Sketches of Spain (whereishumhum)
+- [ ] dream theater (agrathem)
+- [ ] tool (agrathem)
+- [x] slice the cake - odyssey to the west (poler10) 
+    - I have been reliably informed that StC is perhaps a bit deep in the genre (NOTE: after listening, I think this was correct)
+- [ ] Socos, Eggonopoulos, Poulikakos - Η Ύδρα των Πουλιών (porditsa)
+
+# Jolt
+
+- [ ] Bathory - Blood Fire Death
+- [ ] Bathory - Under The Sign of the Black Mark
+- [ ] Disillusion - Ayam
+- [ ] Chelsea Wolfe - Hiss Spun
+- [ ] Be'Lakor - Of Breath and Bone
+- [ ] Stormkeep - Tales of Othertime
+- [ ] Ne Obliviscaris - Portal of I
+- [ ] Lord Belial - Rapture
+- [ ] Killswitch Engage - As Daylight Dies (Special Edition)
+- [ ]Annihilator - Alice In Hell
+- [ ] Blind Guardian - The God Machine
