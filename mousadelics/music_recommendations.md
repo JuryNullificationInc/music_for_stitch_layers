@@ -4,6 +4,7 @@
 - [ ] The Dear Hunter (caseybop)
 - [ ] Rush (caseybop)
 - [ ] The Dear Hunter - The Acts (kae)
+    - This is a concept told across 5 albums, certainly an advanced listen. I'm waiting for my headphones to come in before engaging with this.
 - [ ] The Dear Hunter - Color Spectrum (kae)
 - [ ] The Dear Hunter - Antimai (kae)
 - [ ] Rototypical (agrathem)
@@ -15,7 +16,8 @@
 - [x] slice the cake - odyssey to the west (poler10) 
     - I have been reliably informed that StC is perhaps a bit deep in the genre (NOTE: after listening, I think this was correct)
 - [ ] Socos, Eggonopoulos, Poulikakos - Η Ύδρα των Πουλιών (porditsa)
-
+- [ ] A Forest of Stars - Beware the Sword You Cannot See (quint)
+ 
 # Jolt
 
 - [ ] Bathory - Blood Fire Death
