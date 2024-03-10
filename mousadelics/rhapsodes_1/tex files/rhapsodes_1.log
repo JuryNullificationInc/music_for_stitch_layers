@@ -1,0 +1,750 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.6)  9 MAR 2024 00:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**rhapsodes_1.tex
+(./rhapsodes_1.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2022/10/12 v3.38 KOMA-Script document class (book)
+(/usr/share/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2022/10/12 v3.38 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
+)))
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/share/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 137.
+Class scrbook Info: File `size9.clo' used to setup font sizes on input line 261
+7.
+
+(/usr/share/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count185
+Package typearea Info: You've used standard option `a5paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a5'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a5' there
+(typearea)             instead of `a5paper', too.
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: With paper sizes other than (almost) `A4' predefined
+(typearea)             DIV values do not exist. Using DIV calculation for good
+(typearea)             line width (unless using `version=3.24` or prior).
+
+DIV calculation for typearea with good linewidth.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 12
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 421.10083pt
+(typearea)              \textwidth      = 315.82562pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = -2.08652pt
+(typearea)              \oddsidemargin  = -37.17825pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 457.94987pt
+(typearea)              \topmargin      = -52.59013pt
+(typearea)              \headheight     = 13.68748pt
+(typearea)              \headsep        = 16.42499pt
+(typearea)              \topskip        = 9.0pt
+(typearea)              \footskip       = 38.32497pt
+(typearea)              \baselineskip   = 10.95pt
+(typearea)              on input line 1767.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5898.
+\scr@dte@section@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5909.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5909.
+\scr@dte@part@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5918.
+\scr@dte@subsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5928.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5928.
+\scr@dte@subsubsection@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5938.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5938.
+\scr@dte@paragraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5949.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5949.
+\scr@dte@subparagraph@maxnumwidth=\skip60
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5959.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5959.
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7142.
+\scr@dte@figure@maxnumwidth=\skip63
+\c@figure=\count193
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7159.
+\scr@dte@table@maxnumwidth=\skip64
+\c@table=\count194
+Class scrbook Info: Redefining `\numberline' on input line 7330.
+\bibindent=\dimen140
+)
+
+Class scrbook Warning: Usage of package `fancyhdr' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use 
+(scrbook)              package `scrlayer' or `scrlayer-scrpage', because
+(scrbook)              they support KOMA-Script classes.
+(scrbook)              With `fancyhdr' several features of class `scrbook'
+(scrbook)              like options `headsepline', `footsepline' or command
+(scrbook)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrbook)              `\addtokomafont' for the page style elements need
+(scrbook)              explicite user intervention to work.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `fancyhdr' on input line 3.
+
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
+)
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count198
+\mult@box=\box53
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count199
+\c@collectmore=\count266
+\doublecol@number=\count267
+\multicoltolerance=\count268
+\multicolpretolerance=\count269
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip74
+\multicolbaselineskip=\skip75
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@firstbox=\box58
+\mult@gfirstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\c@minrows=\count270
+\c@columnbadness=\count271
+\c@finalcolumnbadness=\count272
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box96
+\colbreak@box=\box97
+\mc@col@check@num=\count273
+)
+(/usr/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/mparhack/mparhack.sty
+Package: mparhack 2021-05-02 v1.5 (T. Sgouros and S. Ulrich)
+)
+(/usr/share/texmf-dist/tex/latex/poemscol/poemscol.sty
+Package: poemscol 2020/06/12 v3.1415926 poemscol file
+\verseindentamount=\skip76
+\l@@pcounter=\count274
+\indentedstanzaamount=\skip77
+\variablestanzaamount=\skip78
+\titleindentamount=\skip79
+\titleindenttwoamount=\skip80
+\titleindentthreeamount=\skip81
+\volumetitleindentamount=\skip82
+\volumetitlesecondlineindentamount=\skip83
+\volumesubtitleindentamount=\skip84
+\volumesubtitlesecondlineindentamount=\skip85
+\volumesectiontitleindentamount=\skip86
+\volumesectiontitlesecondlineindentamount=\skip87
+\poemtitleindentamount=\skip88
+\poemtitlesecondlineindentamount=\skip89
+\poemsubtitleindentamount=\skip90
+\poemsectiontitleindentamount=\skip91
+\poemsectiontitlesecondlineindentamount=\skip92
+\poemsubsectiontitleindentamount=\skip93
+\sequencetitleindentamount=\skip94
+\sequencetitlesecondlineindentamount=\skip95
+\sequencesubtitleindentamount=\skip96
+\sequencesubtitlesecondlineindentamount=\skip97
+\sequencesectiontitleindentamount=\skip98
+\sequencesectiontitlesecondlineindentamount=\skip99
+\sequencesectionsubtitleindentamount=\skip100
+\sequencesectionsubtitlesecondlineindentamount=\skip101
+\sequencesubsectiontitleindentamount=\skip102
+\sequencesubsubsectiontitleindentamount=\skip103
+\appendixtitleindentamount=\skip104
+\subappendixtitleindentamount=\skip105
+\forewordtitleindentamount=\skip106
+\notestitleindentamount=\skip107
+\volumetitleshiftamount=\dimen158
+\voladditionalamount=\dimen159
+\contentsindentoneamount=\dimen160
+\contentsindenttwoamount=\dimen161
+\contentsindentthreeamount=\dimen162
+\contentsindentfouramount=\dimen163
+\contentsindentfiveamount=\dimen164
+\contentsvolumetitleindentamount=\skip108
+\contentsvolumetitlesecondlineindentamount=\skip109
+\contentsvolumesubtitleindentamount=\skip110
+\contentsvolumesubtitlesecondlineindentamount=\skip111
+\contentsvolumesectiontitleindentamount=\skip112
+\contentsvolumesectiontitlesecondlineindentamount=\skip113
+\contentspoemtitleindentamount=\skip114
+\contentspoemtitlesecondlineindentamount=\skip115
+\contentspoemsubtitleindentamount=\skip116
+\contentspoemsectiontitleindentamount=\skip117
+\contentspoemsectiontitlesecondlineindentamount=\skip118
+\contentspoemsubsectiontitleindentamount=\skip119
+\contentssequencetitleindentamount=\skip120
+\contentssequencetitlesecondlineindentamount=\skip121
+\contentssequencesubtitleindentamount=\skip122
+\contentssequencesubtitlesecondlineindentamount=\skip123
+\contentssequencesectiontitleindentamount=\skip124
+\contentssequencesectiontitlesecondlineindentamount=\skip125
+\contentssequencesectionsubtitleindentamount=\skip126
+\contentssequencesectionsubtitlesecondlineindentamount=\skip127
+\contentssequencesubsectiontitleindentamount=\skip128
+\contentssequencesubsubsectiontitleindentamount=\skip129
+\poemtitlewidth=\skip130
+\lefttitleaddition=\skip131
+\marginparsepmin=\skip132
+\versemarginadjust=\skip133
+\c@verselinenumber=\count275
+\c@printlineindex=\count276
+\c@verselinenumberscratch=\count277
+\c@printlineindexscratch=\count278
+\c@lineindexrepeat=\count279
+\c@lemmalines=\count280
+\c@lemmaend=\count281
+\c@poemnumber=\count282
+\c@notepageholdertitle=\count283
+\c@notepageholdernote=\count284
+\fulltitleholder=\toks18
+\titlesofar=\toks19
+\titleincrement=\toks20
+\@indexfile=\write3
+\openout3 = `rhapsodes_1.idx'.
+
+
+Writing index file rhapsodes_1.idx
+\headoffsetlength=\skip134
+\singlelineabbrev=\toks21
+\multiplelineabbrev=\toks22
+\singlepageabbrev=\toks23
+\multiplepageabbrev=\toks24
+\contentsentryoverrun=\skip135
+\titleentryoverrun=\skip136
+\versewidth=\skip137
+\@memcnta=\count285
+\c@cp@cntr=\count286
+\pmclsideparvshift=\skip138
+\pmclcontentsname=\toks25
+\pmclcontentsheader=\toks26
+\noteindentation=\skip139
+\pmclnotesname=\toks27
+\notesheadername=\toks28
+\textnotescontentsname=\toks29
+\emendationsname=\toks30
+\emendationsheadername=\toks31
+\emendationscontentsname=\toks32
+\explanationsname=\toks33
+\explanationsheadername=\toks34
+\explanationscontentsname=\toks35
+\lefttitlemargin=\skip140
+\JHtextwidth=\skip141
+\JHmarginparsep=\skip142
+\JHmarginparvshift=\skip143
+\JHmarginparwidth=\skip144
+\JHmarginparsepmin=\skip145
+\JHtitlemarginparsep=\skip146
+\c@margrefnumber=\count287
+\margrefmarker=\toks36
+\titlemargrefmarker=\toks37
+\centerepigraphindentation=\skip147
+\normalepigraphindentation=\skip148
+\dateindent=\skip149
+\poemattributionindent=\skip150
+\c@proselinenumber=\count288
+\c@prosemodulo=\count289
+\pmnoteheader=\toks38
+\c@pmsentencenumber=\count290
+\c@pmmodulo=\count291
+\c@pmindexcount=\count292
+\c@pmparagraph=\count293
+\pmrangeend=\toks39
+\pmclsavsk=\dimen165
+\pmclsavsf=\count294
+\c@rectolinecounter=\count295
+\c@rectoindexscratch=\count296
+\c@versolinecounter=\count297
+\c@versoindexscratch=\count298
+\versotitleholder=\toks40
+\rectotitleholder=\toks41
+\synchroflag=\toks42
+\versotextnotesname=\toks43
+\versotextnotesheadername=\toks44
+\versotextnotescontentsname=\toks45
+\rectotextnotesname=\toks46
+\rectotextnotesheadername=\toks47
+\rectotextnotescontentsname=\toks48
+\versoemendationsname=\toks49
+\versoemendationsheadername=\toks50
+\versoemendationscontentsname=\toks51
+\rectoemendationsname=\toks52
+\rectoemendationsheadername=\toks53
+\rectoemendationscontentsname=\toks54
+\versoexplanationsname=\toks55
+\versoexplanationsheadername=\toks56
+\versoexplanationscontentsname=\toks57
+\rectoexplanationsname=\toks58
+\rectoexplanationsheadername=\toks59
+\rectoexplanationscontentsname=\toks60
+\c@prosepage=\count299
+\c@versoproselinecounter=\count300
+\c@rectoproselinecounter=\count301
+\poemindexname=\toks61
+\poemindexheadername=\toks62
+\poemindexcontentsname=\toks63
+\poemindexlabelname=\toks64
+\epigraphquoteleftmargin=\skip151
+\epigraphquoterightmargin=\skip152
+) (/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks65
+\AP@partial=\box98
+\AP@footins=\box99
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count302
+\l__pdf_internal_box=\box100
+)
+(./rhapsodes_1.aux)
+\openout1 = `rhapsodes_1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+Package scrbase Info: activating english \partname on input line 22.
+Package scrbase Info: activating english \chaptername on input line 22.
+Package scrbase Info: activating english \appendixname on input line 22.
+Package scrbase Info: activating english \figurename on input line 22.
+Package scrbase Info: activating english \tablename on input line 22.
+Package scrbase Info: activating english \contentsname on input line 22.
+Package scrbase Info: activating english \listfigurename on input line 22.
+Package scrbase Info: activating english \listtablename on input line 22.
+Package scrbase Info: activating english \bibname on input line 22.
+Package scrbase Info: activating english \indexname on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside asymmetric 
+* h-part:(L,W,R)=(50.5326pt, 294.76926pt, 75.79893pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=294.76926pt
+* \textheight=418.25368pt
+* \oddsidemargin=-21.7374pt
+* \evensidemargin=3.52895pt
+* \topmargin=-30.6808pt
+* \headheight=13.68748pt
+* \headsep=16.42499pt
+* \topskip=9.0pt
+* \footskip=38.32497pt
+* \marginparwidth=18.0pt
+* \marginparsep=18.0pt
+* \columnsep=15.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 51.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 51.
+
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 26--52
+[] 
+ []
+
+[1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+
+
+] (./rhapsodes_1.ctn
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 37.
+
+[5
+
+
+
+]) [6]
+\poemcontents=\write4
+\openout4 = `rhapsodes_1.ctn'.
+
+ [0
+
+
+]
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 62.
+
+
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 64--88
+[] 
+ []
+
+[1
+
+
+] [2
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 315--331
+[] 
+ []
+
+[13
+
+
+
+] [14
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Overfull \hbox (3.62126pt too wide) in paragraph at lines 351--351
+[]\OT1/cmr/m/n/14.4 (Summer 5) \OT1/cmr/bx/n/14.4 Forget Not Yet The Tried Inte
+nt
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 362--367
+[] 
+ []
+
+[21
+
+
+
+] [22
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 400--405
+[] 
+ []
+
+[29
+
+
+
+] [30
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35]
+[36]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 435--440
+[] 
+ []
+
+[37
+
+
+
+] [38
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Overfull \hbox (25.80458pt too wide) in paragraph at lines 461--461
+[]\OT1/cmr/m/n/14.4 (Epilogue 5) \OT1/cmr/bx/n/14.4 The Lovesong of J. Alfred P
+rufrock
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+(./rhapsodes_1.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6055 strings out of 477985
+ 128645 string characters out of 5840059
+ 1862388 words of memory out of 5000000
+ 26252 multiletter control sequences out of 15000+600000
+ 517607 words of font info for 49 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 108i,12n,106p,10627b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmbxti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on rhapsodes_1.pdf (49 pages, 190054 bytes).
+PDF statistics:
+ 224 PDF objects out of 1000 (max. 8388607)
+ 147 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

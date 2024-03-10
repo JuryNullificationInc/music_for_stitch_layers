@@ -1,0 +1,469 @@
+\documentclass[fontsize=9, a5paper]{scrbook}
+\usepackage{fancyhdr}
+\usepackage[a5paper]{geometry}
+\usepackage{ifthen}
+\usepackage{keyval}
+\usepackage{multicol}
+\usepackage{makeidx}
+\usepackage{mparhack}
+\usepackage{poemscol}
+\usepackage{afterpage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+\fancyhf{}
+\cfoot{\thepage}
+\pagestyle{fancy}
+\stanzaatbottom{*}
+\indexingontrue
+\begin{document}
+
+\begin{maintitlepage}
+\wholebooktitle{\textbf{I.} A Volume of Stitched Lays}
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{The Human Seasons}
+		\attribution{John Keats}
+		\index{The Human Seasons}
+		\begin{poem}
+		    \begin{stanza}
+		        \textsc{Four Seasons} fill the measure of the year;\verseline
+			\index{\textsc{Four Seasons} fill the measure of the year;}
+		        \verseindent There are four seasons in the mind of man:\verseline
+		        He has his lusty Spring, when fancy clear\verseline
+		             \verseindent Takes in all beauty with an easy span: \verseline
+		        He has his Summer, when luxuriously \verseline
+		             \verseindent Spring's honied cud of youthful thought he loves \verseline
+		        To ruminate, and by such dreaming high \verseline
+		             \verseindent Is nearest unto heaven: quiet coves \verseline
+		        His soul has in its Autumn, when his wings \verseline
+		             \verseindent He furleth close; contented so to look \verseline
+		        On mists in idleness—to let fair things \verseline
+		             \verseindent Pass by unheeded as a threshold brook. \verseline
+		        He has his Winter too of pale misfeature, \verseline
+		        Or else he would forego his mortal nature.
+ 		   \end{stanza}
+		\end{poem}
+	}
+}
+\end{maintitlepage}
+
+\pmclcontentsname={Rhapsodies}
+\putpoemcontents
+\makepoemcontents
+
+\pagenumbering{arabic}
+
+\afterpage{\blankpage}
+\begin{volumetitlepage}
+\sequencetitle{\textbf{I.} Spring}
+\bigskip
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{(Cantrip) \textbf{A Poet! He Hath Put His Heart to School!}}
+		\attribution{William Wordsworth}
+			\begin{poem}
+\begin{stanza}
+			 A poet!—He hath put his heart to school,\\
+			Nor dares to move unpropped upon the staff\\
+			Which art hath lodged within his hand—must laugh\\
+			By precept only, and shed tears by rule.\\
+			Thy Art be Nature; the live current quaff,\\
+			And let the groveller sip his stagnant pool,\\
+			In fear that else, when Critics grave and cool\\
+			Have killed him, Scorn should write his epitaph.\\
+			How does the Meadow-flower its bloom unfold?\\
+			Because the lovely little flower is free\\
+			Down to its root, and, in that freedom, bold;\\
+			And so the grandeur of the Forest-tree\\
+			Comes not by casting in a formal mould,\\
+			But from its own divine vitality.
+\end{stanza}
+			\end{poem}
+	}
+}
+
+\end{volumetitlepage}
+
+\pagebreak
+
+\poemtitle{(Spring 1) \textbf{The Bells}}
+\attribution{Edgar Allan Poe (19 Jan 1809 - 7 Oct 1849)}
+\begin{poem}
+\begin{stanza}
+\textbf{I.}
+
+        \verseindent Hear the sledges with the bells—\\
+                 \verseindent\verseindent\verseindent  Silver bells!\\
+What a world of merriment their melody foretells!\\
+        \verseindent How they tinkle, tinkle, tinkle,\\
+           \verseindent\verseindent In the icy air of night!\\
+        \verseindent While the stars that oversprinkle\\
+        \verseindent All the heavens, seem to twinkle\\
+           \verseindent\verseindent With a crystalline delight;\\
+         \verseindent Keeping time, time, time,\\
+         \verseindent In a sort of Runic rhyme,\\
+To the tintinabulation that so musically wells\\
+       \verseindent From the bells, bells, bells, bells,\\
+               \verseindent\verseindent\verseindent Bells, bells, bells—\\
+ From the jingling and the tinkling of the bells.
+\end{stanza}
+
+\pagebreak 
+\begin{stanza}
+\textbf{II.}
+
+        \verseindent Hear the mellow wedding bells,\\
+                 \verseindent\verseindent\verseindent  Golden bells!\\
+What a world of happiness their harmony foretells!\\
+        \verseindent Through the balmy air of night\\
+        \verseindent How they ring out their delight!\\
+           \verseindent\verseindent From the molten-golden notes,\\
+               \verseindent\verseindent\verseindent And all in tune,\\
+           \verseindent \verseindent What a liquid ditty floats\\
+    \verseindent To the turtle-dove that listens, while she gloats\\
+               \verseindent \verseindent\verseindent On the moon!\\
+         \verseindent Oh, from out the sounding cells,\\
+What a gush of euphony voluminously wells!\\
+               \verseindent\verseindent\verseindent How it swells!\\
+               \verseindent\verseindent\verseindent How it dwells\\
+           \verseindent\verseindent On the Future! how it tells\\
+           \verseindent\verseindent Of the rapture that impels\\
+         \verseindent To the swinging and the ringing\\
+           \verseindent\verseindent\verseindent Of the bells, bells, bells,\\
+         \verseindent\verseindent Of the bells, bells, bells, bells,\\
+               \verseindent\verseindent\verseindent Bells, bells, bells—\\
+  To the rhyming and the chiming of the bells!
+\end{stanza}
+\pagebreak
+\begin{stanza}
+III.
+
+         Hear the loud alarum bells—
+                 Brazen bells!
+What tale of terror, now, their turbulency tells!
+       In the startled ear of night
+       How they scream out their affright!
+         Too much horrified to speak,
+         They can only shriek, shriek,
+                  Out of tune,
+In a clamorous appealing to the mercy of the fire,
+In a mad expostulation with the deaf and frantic fire,
+            Leaping higher, higher, higher,
+            With a desperate desire,
+         And a resolute endeavor
+         Now—now to sit or never,
+       By the side of the pale-faced moon.
+            Oh, the bells, bells, bells!
+            What a tale their terror tells
+                  Of Despair!
+       How they clang, and clash, and roar!
+       What a horror they outpour
+On the bosom of the palpitating air!
+       Yet the ear it fully knows,
+            By the twanging,
+            And the clanging,
+         How the danger ebbs and flows;
+       Yet the ear distinctly tells,
+            In the jangling,
+            And the wrangling.
+       How the danger sinks and swells,
+By the sinking or the swelling in the anger of the bells—
+             Of the bells—
+     Of the bells, bells, bells, bells,
+            Bells, bells, bells—
+ In the clamor and the clangor of the bells!
+\end{stanza}
+\pagebreak
+\begin{stanza}
+IV.
+
+          Hear the tolling of the bells—
+                 Iron bells!
+What a world of solemn thought their monody compels!
+        In the silence of the night,
+        How we shiver with affright
+  At the melancholy menace of their tone!
+        For every sound that floats
+        From the rust within their throats
+                 Is a groan.
+        And the people—ah, the people—
+       They that dwell up in the steeple,
+                 All alone,
+        And who tolling, tolling, tolling,
+          In that muffled monotone,
+         Feel a glory in so rolling
+          On the human heart a stone—
+     They are neither man nor woman—
+     They are neither brute nor human—
+              They are Ghouls:
+        And their king it is who tolls;
+        And he rolls, rolls, rolls,
+                    Rolls
+             A pæan from the bells!
+          And his merry bosom swells
+             With the pæan of the bells!
+          And he dances, and he yells;
+          Keeping time, time, time,
+          In a sort of Runic rhyme,
+             To the pæan of the bells—
+               Of the bells:
+          Keeping time, time, time,
+          In a sort of Runic rhyme,
+            To the throbbing of the bells—
+          Of the bells, bells, bells—
+            To the sobbing of the bells;
+          Keeping time, time, time,
+            As he knells, knells, knells,
+          In a happy Runic rhyme,
+            To the rolling of the bells—
+          Of the bells, bells, bells—
+            To the tolling of the bells,
+      Of the bells, bells, bells, bells—
+              Bells, bells, bells—
+  To the moaning and the groaning of the bells.
+\end{stanza}
+\end{poem}
+
+\pagebreak
+
+\poemtitle{(Spring 2) \textbf{The Lover: A Ballad} XX}
+
+\pagebreak
+
+\poemtitle{(Spring 3) \textbf{The Sun Rising} XX}
+
+\pagebreak
+
+\poemtitle{(Spring 4) \textbf{Heart and Service} XX}
+
+\pagebreak
+
+\poemtitle{(Spring 5) \textbf{if everything happens that can't be done} X}
+\attribution{e e cummings}
+\begin{poem}
+	\begin{stanza}
+		if everything happens that can't be done\verseline
+		(and anything's righter\verseline
+		than books\verseline
+		could plan)\verseline
+		the stupidest teacher will almost guess\verseline
+		(with a run\verseline
+		skip\verseline
+		around we go yes)\verseline
+		there's nothing as something as one
+	\end{stanza}
+	\begin{stanza}
+		one hasn't a why or because or although\verseline
+		(and buds know better\verseline
+		than books\verseline
+		don't grow)\verseline
+		one's anything old being everything new\verseline
+		(with a what\verseline
+		which\verseline
+		around we come who)\verseline
+		one's everyanything so
+	\end{stanza}
+	\begin{stanza}
+		so world is a leaf so a tree is a bough\verseline
+		(and birds sing sweeter\verseline
+		than books\verseline
+		tell how)\verseline
+		so here is away and so your is a my\verseline
+		(with a down\verseline
+		up\verseline
+		around again fly)\verseline
+		forever was never till now
+	\end{stanza}
+	\pagebreak
+	\begin{stanza}
+		now i love you and you love me\verseline
+		(and books are shuter\verseline
+		than books\verseline
+		can be)\verseline
+		and deep in the high that does nothing but fall\verseline
+		(with a shout\verseline
+		each\verseline
+		around we go all)\verseline
+		there's somebody calling who's we
+	\end{stanza}
+	\begin{stanza}
+		we're anything brighter than even the sun\verseline
+		(we're everything greater\verseline
+		than books\verseline
+		might mean)\verseline
+		we're everyanything more than believe\verseline
+		(with a spin\verseline
+		leap\verseline
+		alive we're alive)\verseline
+		we're wonderful one times one
+	\end{stanza}
+\end{poem}
+
+\pagebreak
+
+\poemtitle{(Spring 6) \textbf{\textit{I Met a Fool}} XX}
+
+\pagebreak
+
+\begin{volumetitlepage}
+\sequencetitle{\textbf{II.} Summer}
+\bigskip
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{(Cantrip) \textbf{A Drinking Song}}
+		\attribution{William Butler Yeats}
+		\begin{poem}
+			\begin{stanza}
+				Wine comes in at the mouth\\
+				And love comes in at the eye;\\
+				That’s all we shall know for truth\\
+				Before we grow old and die.\\
+				I lift the glass to my mouth,\\
+				I look at you, and I sigh.
+			\end{stanza}
+		\end{poem}
+	}
+}
+\end{volumetitlepage}
+
+\pagebreak
+
+\poemtitle{(Summer 1) \textbf{\textit{All Delights Are Vain}} XX}
+
+\pagebreak
+
+\poemtitle{(Summer 2) \textbf{When I Heard the Learn'd Astronomer} XX}
+
+\pagebreak
+
+\poemtitle{(Summer 3) \textbf{Love's Growth} XX}
+
+\pagebreak
+
+\poemtitle{(Summer 4) \textbf{The Time I've Lost In Wooing} XX}
+
+\pagebreak
+
+\poemtitle{(Summer 5) \textbf{Forget Not Yet The Tried Intent} XX}
+
+\pagebreak
+
+\poemtitle{(Summer 6) \textbf{I Wandered Lonely as a Cloud} XX}
+
+\pagebreak
+
+\begin{volumetitlepage}
+\sequencetitle{\textbf{III.} Autumn}
+\bigskip
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{(Cantrip) \textbf{The Road Not Taken}}
+	}
+}
+
+\end{volumetitlepage}
+
+\pagebreak
+
+\poemtitle{(Autumn 1) \textbf{\textit{All The World's a Stage}} XX}
+\attribution{Jaques, As You Like It (Shakespeare, }
+
+\pagebreak
+
+\poemtitle{(Autumn 2) \textbf{It Is Later Than You Think}}
+
+\pagebreak
+
+\poemtitle{(Autumn 3) \textbf{A Lecture Upon the Shadow} XX}
+
+\pagebreak
+
+\poemtitle{(Autumn 4) \textbf{Sailing to Byzantium} XX}
+
+\pagebreak
+
+\poemtitle{(Autumn 5) \textbf{A Dream Within a Dream} XX}
+
+\pagebreak
+
+\poemtitle{(Autumn 6) \textbf{Byzantium} XX}
+
+\pagebreak
+
+\begin{volumetitlepage}
+\sequencetitle{\textbf{IV.} Winter}
+\bigskip
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{(Cantrip) \textbf{Ozymandias} XX}
+	}
+}
+
+\end{volumetitlepage}
+
+\pagebreak
+
+\poemtitle{(Winter 1) \textbf{Lines Written in Early Spring} XX}
+
+\pagebreak
+
+\poemtitle{(Winter 2) \textbf{Time to Come} XX}
+
+\pagebreak
+
+\poemtitle{(Winter 3) \textbf{I am A Little World Cunningly Made} XX}
+
+\pagebreak
+
+\poemtitle{(Winter 4) \textbf{The Conqueror Worm} XX}
+
+\pagebreak
+
+\poemtitle{(Winter 5) \textbf{Do Not Go Gentle} XX}
+
+\pagebreak
+
+\poemtitle{(Winter 6) \textbf{\textit{To Be or Not To Be}} XX}
+
+\begin{volumetitlepage}
+\sequencetitle{\textbf{V.} A Season Out Of Time}
+\bigskip
+\noindent\fbox{
+	\parbox{\textwidth}{
+		\poemtitle{(Cantrip) \textbf{Romance}}
+	}
+}
+
+\end{volumetitlepage} 
+
+\pagebreak
+
+\poemtitle{(Epilogue 1) \textbf{The Ballad of God-Makers} XX}
+
+\pagebreak
+
+\poemtitle{(Epilogue 2) \textbf{The World is Too Much With Us} XX}
+ 
+\pagebreak
+
+\poemtitle{(Epilogue 3) \textbf{Love's Deity} XX}
+
+\pagebreak
+
+\poemtitle{(Epilogue 4) \textbf{Stopping by Woods on a Snowy Night} XX}
+
+\pagebreak
+
+\poemtitle{(Epilogue 5) \textbf{The Lovesong of J. Alfred Prufrock} XX}
+
+\pagebreak
+
+\poemtitle{(Epilogue 6) \textbf{Desiderata} XX}
+
+\pagebreak
+
+\end{document}
