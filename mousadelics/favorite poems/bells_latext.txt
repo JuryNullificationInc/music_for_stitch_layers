@@ -1,0 +1,138 @@
+\iffalse
+\poemtitle{(Spring 1) \textbf{The Bells}}
+\attribution{Edgar Allan Poe (19 Jan 1809 - 7 Oct 1849)}
+\begin{poem}
+\begin{stanza}
+\textbf{I.}
+
+        \verseindent \textsc{Hear the} sledges with the bells—\\
+                 \verseindent\verseindent\verseindent  Silver bells!\\
+What a world of merriment their melody foretells!\\
+        \verseindent How they tinkle, tinkle, tinkle,\\
+           \verseindent\verseindent In the icy air of night!\\
+        \verseindent While the stars that oversprinkle\\
+        \verseindent All the heavens, seem to twinkle\\
+           \verseindent\verseindent With a crystalline delight;\\
+         \verseindent Keeping time, time, time,\\
+         \verseindent In a sort of Runic rhyme,\\
+To the tintinabulation that so musically wells\\
+       \verseindent From the bells, bells, bells, bells,\\
+               \verseindent\verseindent\verseindent Bells, bells, bells—\\
+ From the jingling and the tinkling of the bells.
+\end{stanza}
+
+\pagebreak 
+\begin{stanza}
+\textbf{II.}
+
+        \verseindent \textsc{Hear the} mellow wedding bells,\\
+                 \verseindent\verseindent\verseindent  Golden bells!\\
+What a world of happiness their harmony foretells!\\
+        \verseindent Through the balmy air of night\\
+        \verseindent How they ring out their delight!\\
+           \verseindent\verseindent From the molten-golden notes,\\
+               \verseindent\verseindent\verseindent And all in tune,\\
+           \verseindent \verseindent What a liquid ditty floats\\
+    \verseindent To the turtle-dove that listens, while she gloats\\
+               \verseindent \verseindent\verseindent On the moon!\\
+         \verseindent Oh, from out the sounding cells,\\
+What a gush of euphony voluminously wells!\\
+               \verseindent\verseindent\verseindent How it swells!\\
+               \verseindent\verseindent\verseindent How it dwells\\
+           \verseindent\verseindent On the Future! how it tells\\
+           \verseindent\verseindent Of the rapture that impels\\
+         \verseindent To the swinging and the ringing\\
+           \verseindent\verseindent\verseindent Of the bells, bells, bells,\\
+         \verseindent\verseindent Of the bells, bells, bells, bells,\\
+               \verseindent\verseindent\verseindent Bells, bells, bells—\\
+  To the rhyming and the chiming of the bells!
+\end{stanza}
+\pagebreak
+\begin{stanza}
+\textbf{III.}
+
+         \verseindent \textsc{Hear the} loud alarum bells—\\
+                 \verseindent\verseindent\verseindent Brazen bells!\\
+What tale of terror, now, their turbulency tells!\\
+       \verseindent In the startled ear of night\\
+       \verseindent How they scream out their affright!\\
+         \verseindent\verseindent Too much horrified to speak,\\
+         \verseindent\verseindent They can only shriek, shriek,\\
+                  \verseindent\verseindent\verseindent Out of tune,\\
+In a clamorous appealing to the mercy of the fire,\\
+In a mad expostulation with the deaf and frantic fire,\\
+            \verseindent\verseindent\thickspace\thickspace Leaping higher, higher, higher,\\
+            \verseindent\verseindent\thickspace\thickspace With a desperate desire,\\
+         \verseindent\verseindent And a resolute endeavor\\
+         \verseindent\verseindent Now—now to sit or never,\\
+       \verseindent By the side of the pale-faced moon.\\
+            \verseindent\verseindent Oh, the bells, bells, bells!\\
+            \verseindent\verseindent What a tale their terror tells\\
+                  \verseindent\verseindent\verseindent Of Despair!\\
+       \verseindent How they clang, and clash, and roar!\\
+       \verseindent What a horror they outpour\\
+On the bosom of the palpitating air!\\
+       \verseindent Yet the ear it fully knows,\\
+            \verseindent\verseindent By the twanging,\\
+            \verseindent\verseindent And the clanging,\\
+         \verseindent How the danger ebbs and flows;\\
+       \verseindent Yet the ear distinctly tells,\\
+            \verseindent\verseindent In the jangling,\\
+           \verseindent\verseindent And the wrangling.\\
+       \verseindent How the danger sinks and swells,\\
+By the sinking or the swelling in the anger of the bells—\\
+             \verseindent\verseindent Of the bells—\\
+     \verseindent Of the bells, bells, bells, bells,\\
+            \verseindent\verseindent Bells, bells, bells—\\
+ In the clamor and the clangor of the bells!
+\end{stanza}
+\pagebreak
+\begin{stanza}
+\textbf{IV.}	
+
+          \verseindent \textsc{Hear the} tolling of the bells—\\
+                 \verseindent\verseindent\verseindent Iron bells!\\
+What a world of solemn thought their monody compels!\\
+        \verseindent In the silence of the night,\\
+        \verseindent How we shiver with affright\\
+  At the melancholy menace of their tone!\\
+        \verseindent For every sound that floats\\
+        \verseindent From the rust within their throats\\
+                 \verseindent\verseindent\verseindent Is a groan.\\
+        \verseindent\verseindent And the people—ah, the people—\\
+       \verseindent\verseindent They that dwell up in the steeple,\\
+                 \verseindent\verseindent\verseindent All alone,\\
+        \verseindent\verseindent And who tolling, tolling, tolling,\\
+          \verseindent\verseindent In that muffled monotone,\\
+         \verseindent\verseindent Feel a glory in so rolling\\
+          \verseindent\verseindent On the human heart a stone—\\
+     \verseindent They are neither man nor woman—\\
+     \verseindent They are neither brute nor human—\\
+              \verseindent\verseindent\verseindent They are Ghouls:\\
+        \verseindent\verseindent And their king it is who tolls;\\
+        \verseindent\verseindent And he rolls, rolls, rolls,\\
+                    \verseindent\verseindent\verseindent Rolls\\
+             \verseindent\verseindent A pæan from the bells!\\
+          \verseindent And his merry bosom swells\\
+             \verseindent\verseindent With the pæan of the bells!\\
+          \verseindent And he dances, and he yells;\\
+          \verseindent Keeping time, time, time,\\
+          \verseindent In a sort of Runic rhyme,\\
+             \verseindent\verseindent To the pæan of the bells—\\
+               \verseindent\verseindent\verseindent Of the bells:\\
+          \verseindent\verseindent Keeping time, time, time,\\
+          \verseindent\verseindent In a sort of Runic rhyme,\\
+            \verseindent\verseindent\verseindent To the throbbing of the bells—\\
+          \verseindent\verseindent Of the bells, bells, bells—\\
+            \verseindent\verseindent\verseindent To the sobbing of the bells;\\
+          \verseindent\verseindent Keeping time, time, time,\\
+            \verseindent\verseindent\verseindent As he knells, knells, knells,\\
+          \verseindent\verseindent In a happy Runic rhyme,\\
+            \verseindent\verseindent\verseindent To the rolling of the bells—\\
+          \verseindent\verseindent Of the bells, bells, bells—\\
+            \verseindent\verseindent\verseindent To the tolling of the bells,\\
+      \verseindent\verseindent Of the bells, bells, bells, bells—\\
+              \verseindent\verseindent\verseindent Bells, bells, bells—\\
+  To the moaning and the groaning of the bells.
+\end{stanza}
+\end{poem}

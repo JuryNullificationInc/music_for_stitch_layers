@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.6)  9 MAR 2024 00:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.6)  19 MAR 2024 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,30 +447,30 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 (./rhapsodes_1.aux)
 \openout1 = `rhapsodes_1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-Package scrbase Info: activating english \partname on input line 22.
-Package scrbase Info: activating english \chaptername on input line 22.
-Package scrbase Info: activating english \appendixname on input line 22.
-Package scrbase Info: activating english \figurename on input line 22.
-Package scrbase Info: activating english \tablename on input line 22.
-Package scrbase Info: activating english \contentsname on input line 22.
-Package scrbase Info: activating english \listfigurename on input line 22.
-Package scrbase Info: activating english \listtablename on input line 22.
-Package scrbase Info: activating english \bibname on input line 22.
-Package scrbase Info: activating english \indexname on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+Package scrbase Info: activating english \partname on input line 23.
+Package scrbase Info: activating english \chaptername on input line 23.
+Package scrbase Info: activating english \appendixname on input line 23.
+Package scrbase Info: activating english \figurename on input line 23.
+Package scrbase Info: activating english \tablename on input line 23.
+Package scrbase Info: activating english \contentsname on input line 23.
+Package scrbase Info: activating english \listfigurename on input line 23.
+Package scrbase Info: activating english \listtablename on input line 23.
+Package scrbase Info: activating english \bibname on input line 23.
+Package scrbase Info: activating english \indexname on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -507,13 +507,13 @@ Package scrbase Info: activating english \indexname on input line 22.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 51.
+(Font)              <9> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 51.
+(Font)              <6> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 51.
+(Font)              <5> on input line 52.
 
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 26--52
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 27--53
 [] 
  []
 
@@ -540,13 +540,13 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
  [0
 
 
-]
+] [0]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 62.
+(Font)              size <17.28> substituted on input line 63.
 
 
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 64--88
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 65--89
 [] 
  []
 
@@ -557,7 +557,7 @@ Overfull \hbox (12.96661pt too wide) in paragraph at lines 64--88
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1082) has occurred while \output is active []
 
  [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -569,25 +569,20 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Underfull \vbox (badness 1082) has occurred while \output is active []
+[7] [7] [8] [8] [9]
+Underfull \vbox (badness 6842) has occurred while \output is active []
 
  [10]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 425.
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 315--331
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 493--509
 [] 
  []
 
@@ -602,28 +597,22 @@ Overfull \hbox (12.96661pt too wide) in paragraph at lines 315--331
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
+[15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Overfull \hbox (3.62126pt too wide) in paragraph at lines 351--351
+[16] [17] [17] [18] [18]
+Overfull \hbox (3.62126pt too wide) in paragraph at lines 666--666
 []\OT1/cmr/m/n/14.4 (Summer 5) \OT1/cmr/bx/n/14.4 Forget Not Yet The Tried Inte
-nt
+nt 
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2103) has occurred while \output is active []
 
  [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 362--367
+[19] [20] [20]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 753--792
 [] 
  []
 
@@ -634,103 +623,125 @@ Overfull \hbox (12.96661pt too wide) in paragraph at lines 362--367
 ] [22
 
 
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
+] [23] [23] [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1997) has occurred while \output is active []
 
  [26]
+[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 400--405
-[] 
- []
+Underfull \vbox (badness 5667) has occurred while \output is active []
 
-[29
+ [29]
+[29]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-
-] [30
-
-
-]
+ [30]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[32
 
- [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [35]
-[36]
-Overfull \hbox (12.96661pt too wide) in paragraph at lines 435--440
-[] 
- []
-
-[37
-
-
-
-] [38
 
 
 ]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 1123--1147
+[] 
+ []
+
+[33] [34
+
+
+] [35] [35] [36] [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+[37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1622) has occurred while \output is active []
 
  [40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[40] [41] [42
 
- [41]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
-Overfull \hbox (25.80458pt too wide) in paragraph at lines 461--461
-[]\OT1/cmr/m/n/14.4 (Epilogue 5) \OT1/cmr/bx/n/14.4 The Lovesong of J. Alfred P
-rufrock
+
+]
+Overfull \hbox (12.96661pt too wide) in paragraph at lines 1434--1458
+[] 
  []
 
+[43] [44
 
+
+] [45] [45] [46] [47]
+Underfull \vbox (badness 7814) has occurred while \output is active []
+
+ [48]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43]
+ [49]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
-(./rhapsodes_1.aux)
+ [50]
+[50] [51]
+Underfull \vbox (badness 1033) has occurred while \output is active []
+
+ [52]
+[53]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [54]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+[55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56]
+[56] [57
+
+
+
+] [58
+
+
+]
+Underfull \vbox (badness 2285) has occurred while \output is active []
+
+ [59
+
+
+
+]
+[60] [61] [62
+
+
+] (./rhapsodes_1.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 6055 strings out of 477985
- 128645 string characters out of 5840059
- 1862388 words of memory out of 5000000
- 26252 multiletter control sequences out of 15000+600000
- 517607 words of font info for 49 fonts, out of 8000000 for 9000
+ 6083 strings out of 477985
+ 128992 string characters out of 5840059
+ 1863388 words of memory out of 5000000
+ 26277 multiletter control sequences out of 15000+600000
+ 518565 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,12n,106p,10627b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,13n,106p,10627b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -740,11 +751,12 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on rhapsodes_1.pdf (49 pages, 190054 bytes).
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on rhapsodes_1.pdf (87 pages, 263679 bytes).
 PDF statistics:
- 224 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
+ 351 PDF objects out of 1000 (max. 8388607)
+ 233 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

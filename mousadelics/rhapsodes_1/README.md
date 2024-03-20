@@ -14,11 +14,11 @@ I want to have these poems memorized for a recital by October 31st. It is curren
 "A Poet! He Hath Sent His Heart to School" William Wordsworth
 
 #### Poems
-1. "The Bells" Edgar Allan Poe
+1. "if everything happens that cant be done" e e cummings
 2. "The Lover: A Ballad" Lady Mary Wortley Montague
 3. "The Sun Rising" John Donne
 4. "Heart and Service" Sir Thomas Wyatt
-5. "if everything happens that cant be done" e e cummings
+5. "Desiderata" Max Ehrmann 
 6. __I Met a Fool__ Jaques (Shakespeare)
 
 ---
@@ -70,9 +70,11 @@ I want to have these poems memorized for a recital by October 31st. It is curren
 "Romance" Claude McKay
 
 ####
-1. "The Ballad of God-Makers" G.K. Chesterton
-2. "The World is Too Much With Us" William Wordsworth
-3. "Love's Deity" John Donne
+1. "The Dong With a Luminous Nose" Edward Lear
+2. "The Dead Man Walking" Thomas Hardy 
+3. "Modern Elf-Land" G.K. Chesterton
 4. "Stopping by Woods on a Snowy Night" Robert Frost
-5. "The Lovesong of J. Alfred Prufrock" T.S. Eliot
-6. "Desiderata" Max Ehrmann 
+5. "The Love Song of J. Alfred Prufrock" T.S. Eliot
+6. "The Triple Fool" John Donne
+
+### Dies Irae
